@@ -1,16 +1,24 @@
-## Hi there 👋
+# Mohamad Karimian
 
-<!--
-**karimian-aut/karimian-aut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Mechanical Engineering – Amirkabir University of Technology  
+Backend Developer | Django | Redis | RabbitMQ | Docker  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I am a backend developer focused on building scalable and efficient web applications.
+
+---
+
+## 🛠 Tech Stack
+- Python
+- Django
+- PostgreSQL
+- Redis
+- RabbitMQ
+- Docker
+
+---
+
+## 📺 YouTube
+https://youtube.com/@yourchannel
