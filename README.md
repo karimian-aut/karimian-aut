@@ -21,4 +21,4 @@ I am a backend developer focused on building scalable and efficient web applicat
 ---
 
 ## 📺 YouTube
-https://youtube.com/@yourchannel
+https://youtube.com/@sigmaschool.official
